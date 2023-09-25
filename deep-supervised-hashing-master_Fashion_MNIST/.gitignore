@@ -1,5 +1,6 @@
 ## project_specific
 data_out/
+weights/
 runs/
 
 ## intellij
